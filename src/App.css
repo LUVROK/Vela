@@ -1,0 +1,179 @@
+.App {
+  background-color: #FFFFFF;
+  /* display: flex;
+  justify-content: center;
+  align-items: center; */
+  height: 100vh;
+  width: 100%;
+  scroll-behavior: smooth;
+  position: relative;
+}
+
+@font-face {
+  font-family: 'dance_partner';
+  src: url('./fonts/dance_partner.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'GranvilleBoldItalic';
+  src: url('./fonts/Granville/GranvilleBoldItalic.otf') format('truetype');
+}
+@font-face {
+  font-family: 'GranvilleRegular';
+  src: url('./fonts/Granville/GranvilleRegular.otf') format('truetype');
+}
+@font-face {
+  font-family: 'GranvilleLight';
+  src: url('./fonts/Granville/GranvilleLight.otf') format('truetype');
+}
+@font-face {
+  font-family: 'GranvilleLightItalic';
+  src: url('./fonts/Granville/GranvilleLightItalic.otf') format('truetype');
+}
+@font-face {
+  font-family: 'GranvilleItalic';
+  src: url('./fonts/Granville/GranvilleItalic.otf') format('truetype');
+}
+@font-face {
+  font-family: 'GranvilleBold';
+  src: url('./fonts/Granville/GranvilleBold.otf') format('truetype');
+}
+
+.navBar {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  background-color: #FBF9F4;
+  height: 10%;
+  position: fixed;
+  top: 0; 
+  z-index: 4;
+  font-family: 'Roboto', serif;
+  font-style: normal;
+  font-weight: 300;
+  }
+
+.LinksNavBar {
+  width: 70%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  font-family: 'Roboto', sans-serif;
+  margin-right: 60px;
+}
+
+.Logo_nav {
+  margin-left: 10%;
+  width: 25%;
+  display: flex;
+  align-items: center;
+  font-family: 'dance_partner', sans-serif;
+  font-size: 46px;
+}
+.logoCursor {
+  cursor: pointer;
+}
+
+.div_nav_link {
+  color: inherit;
+  font-size: 20px;
+  cursor: pointer;
+}
+
+.image_right_1 {
+  height: 100%;
+  width: 61%;
+}
+.image_right_r {
+  height: 100%;
+  width: 39%;
+  display: flex;
+  flex-direction: column;
+}
+
+.image_right_1, img {
+  height: 100%;
+  width: 100%;
+  object-fit:cover;
+}
+
+.gallery_images {
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  flex-direction: row;
+  z-index: 2;
+  position: relative;
+}
+
+.image_right_r1, .image_right_r2 {
+  height: 50%;
+}
+
+.ScrollIcon {
+  width: 84px;
+  height: 84px;
+  position: absolute;
+  z-index: 4;
+  left: 0; 
+  right: 0; 
+  margin-left: auto; 
+  margin-right: auto; 
+  bottom: 42px;
+  cursor: pointer;
+}
+.fixedIcon {
+  position: fixed;
+  z-index: 3;
+}
+
+
+.secondSection {
+  position: relative;
+  height: 100vh;
+  background-color: #FBF9F4;
+  z-index: 2;
+  display: flex;
+  justify-content: center;
+  align-items:center;
+  font-size: 40px;
+  font-family: 'GranvilleRegular', sans-serif;
+  /* background: url(./image/backgroundsecondsection.png) no-repeat, #FBF9F4; */
+}
+
+.thirdSection {
+  position: relative;
+  height: 100vh;
+  background-color: #FBF9F4;
+  z-index: 2;
+  display: flex;
+  justify-content: center;
+  align-items:center;
+  font-size: 40px;
+  font-family: 'GranvilleRegular', sans-serif;
+  /* background: url(./image/backgroundsecondsection.png) no-repeat, #FBF9F4; */
+}
+
+.BackgroundSection {
+  position: absolute;
+  width: 100%;
+  height: 500vh;
+  z-index: 3;
+  background: url(./image/backgroundsecondsection.png) no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+}
+
+.FourthText {
+  width: 62%;
+  text-align: center;
+  font-size: 40px;
+  font-family: 'GranvilleRegular', sans-serif;
+}
+
+.footer {
+  position: relative;
+  z-index: 3;
+  background-color: black;
+  height: 33%;
+}
