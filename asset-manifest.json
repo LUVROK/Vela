@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Vela/static/css/main.1da6e5fa.css",
+    "main.js": "/Vela/static/js/main.47947f61.js",
+    "static/js/787.4b1552e3.chunk.js": "/Vela/static/js/787.4b1552e3.chunk.js",
+    "static/media/9ZJhvzxn_3.png": "/Vela/static/media/9ZJhvzxn_3.377ecd04189cd707f2b3.png",
+    "static/media/9ZJhvzxn_2.png": "/Vela/static/media/9ZJhvzxn_2.45c13473ba6225184c10.png",
+    "static/media/9ZJhvzxn_1.png": "/Vela/static/media/9ZJhvzxn_1.49ad8dbc86d89fe354f7.png",
+    "static/media/GranvilleBoldItalic.otf": "/Vela/static/media/GranvilleBoldItalic.f348478c983c598ff76c.otf",
+    "static/media/GranvilleLightItalic.otf": "/Vela/static/media/GranvilleLightItalic.a42d0b21c07d22fd34bf.otf",
+    "static/media/GranvilleItalic.otf": "/Vela/static/media/GranvilleItalic.17c05e3dccdc0793e3c3.otf",
+    "static/media/GranvilleBold.otf": "/Vela/static/media/GranvilleBold.e23b031204b50b08a71f.otf",
+    "static/media/GranvilleLight.otf": "/Vela/static/media/GranvilleLight.0953db701946cf967963.otf",
+    "static/media/GranvilleRegular.otf": "/Vela/static/media/GranvilleRegular.926f2e96240681294cc5.otf",
+    "static/media/dance_partner.ttf": "/Vela/static/media/dance_partner.627fc6d8c21b7161d71a.ttf",
+    "static/media/backgroundsecondsection.png": "/Vela/static/media/backgroundsecondsection.8cd1151bc52defd97816.png",
+    "index.html": "/Vela/index.html",
+    "main.1da6e5fa.css.map": "/Vela/static/css/main.1da6e5fa.css.map",
+    "main.47947f61.js.map": "/Vela/static/js/main.47947f61.js.map",
+    "787.4b1552e3.chunk.js.map": "/Vela/static/js/787.4b1552e3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1da6e5fa.css",
+    "static/js/main.47947f61.js"
+  ]
+}
