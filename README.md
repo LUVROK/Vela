@@ -6,3 +6,6 @@
 ### `yarn start`
 
 Open `http://localhost:3000` to view it in your browser.
+
+the design was created by
+Michael Huh - https://www.figma.com/community/file/1109185455695040869
