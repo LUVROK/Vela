@@ -25,7 +25,6 @@ function App() {
     let positionFourth = s3.getBoundingClientRect();
     let positionFifth = s4.getBoundingClientRect();
     let positionSixth = s5.getBoundingClientRect();
-    // console.log(positionThird.top)
     console.log(positionSecond.top)
     console.log(positionThird.top)
     console.log(positionFourth.top)
